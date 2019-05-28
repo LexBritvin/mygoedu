@@ -1,0 +1,7 @@
+{
+  "filespath": "./web/portal/cover/",
+  "templates": ["./web/portal/cover/crew/crew.html" ,
+                "./web/portal/cover/about/about.html" ,
+                "./web/portal/cover/chat/chat.html",
+                "./web/portal/cover/chat/login.html"]
+}
